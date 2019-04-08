@@ -361,11 +361,11 @@
     }
     .formComponentX .yzmBox .inputBox{
         float: left;
-        width: 60%;
+        width: 66%;
     }
     .formComponentX .yzmBox .sendYzmBtn{
         float: right;
-        width: 36%;
+        width: 32.3%;
         height: 44px;
         border-radius: 4px;
         background: #fff;
