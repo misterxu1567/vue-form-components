@@ -1,6 +1,7 @@
 > 基于vue的表单提交组件
-注意：组件内包含toast提示，没有安装vue-toast-x 的，请先 npm install vue-toast-x -D ，
-在main.js内引入并use
+<br/>
+*注意：组件内包含toast提示，没有安装vue-toast-x 的，请先 npm install vue-toast-x -D ，
+在main.js内引入并use*
 
 ![Image text](http://wenba-ooo-qiniu.xueba100.com/d99166d843c24f35d230b0a3f9c644db.png)
 
