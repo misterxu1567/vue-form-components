@@ -4,7 +4,7 @@
 在main.js内引入并use**
 <br/><br/>
 
-<img src="http://wenba-ooo-qiniu.xueba100.com/d99166d843c24f35d230b0a3f9c644db.png" alt="表单预览" width="300" height="330">
+<img src="http://wenba-ooo-qiniu.xueba100.com/b8d55d69af759581568f68b3a8e16430.png" alt="表单预览" width="300" height="330">
 
 
 ### NPM
