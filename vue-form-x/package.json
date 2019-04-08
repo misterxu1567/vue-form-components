@@ -1,0 +1,25 @@
+{
+  "name": "vue-form-x",
+  "version": "1.0.0",
+  "description": "this is a form component for vue2.5",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/misterxu1567/vue-form-components/tree/master/vue-form-x"
+  },
+  "bugs": {
+    "url": "https://github.com/misterxu1567/vue-form-components/issues"
+  },
+  "keywords": [
+    "form",
+    "form-module",
+    "formModule",
+    "vue-form-x",
+    "vue-form"
+  ],
+  "author": "misterXu",
+  "license": "ISC"
+}
